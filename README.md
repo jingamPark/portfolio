@@ -16,6 +16,7 @@
 ### 1. 게시판 웹사이트
 - **개요**: CRUD 기능이 포함된 간단한 게시판 웹사이트
 - **기술 스택**: Java, Spring Boot, MariaDB
+- **개발 툴**: InteliJ
 - **주요 기능**:
   - 게시글 작성, 수정, 삭제
   - 댓글 작성 및 관리
@@ -26,6 +27,7 @@
  git : https://github.com/jingamPark/shoppingMall.git
 - **개요**: 스프링 부트를 이용해 개발한 쇼핑몰 웹사이트
 - **기술 스택**: Java, Spring Boot, Gradle, Bootstrap
+- **개발 툴**: InteliJ
 - **주요 기능**:
   - 상품 등록 및 관리
   - 장바구니 기능
@@ -38,6 +40,7 @@
 - **개요**: 푸드트럭 홍보와 예약을 위한 웹사이트
 - **역할**: 팀 프로젝트의 조장, 예약 시스템 및 푸드트럭 홍보 등록 담당
 - **기술 스택**: Java, Spring Boot, MariaDB, Bootstrap, Git
+- **개발 툴**: InteliJ
 - **주요 기능**:
   - 푸드트럭 정보 등록 및 관리
   - 고객과 푸드트럭 사이의 예약 시스템
