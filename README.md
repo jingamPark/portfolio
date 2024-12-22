@@ -23,6 +23,7 @@
 - **성과**: CRUD 및 데이터베이스 연동에 대한 이해를 높였고, 웹사이트 프로그래밍의 기본을 익혔습니다.
 
 ### 2. 쇼핑몰 웹사이트
+ git : https://github.com/jingamPark/shoppingMall.git
 - **개요**: 스프링 부트를 이용해 개발한 쇼핑몰 웹사이트
 - **기술 스택**: Java, Spring Boot, Gradle, Bootstrap
 - **주요 기능**:
